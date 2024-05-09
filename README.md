@@ -1,1 +1,1 @@
-Çok güzel bir repo oldu.
+Bu repoyu test amaçlı oluşturuyorum. Çok güzel bir repo oldu.
